@@ -175,7 +175,7 @@ nav li:hover {
 	line-height: 20px;
 }
 
-#main .title a {
+#main .title a, #main .title a:hover {
 	color: #000;
 	text-decoration: none;
 }
@@ -210,7 +210,6 @@ nav li:hover {
 }
 
 .title a:hover {
-	color: #000;
 	background-color:#ffb18c; 
 }
 
