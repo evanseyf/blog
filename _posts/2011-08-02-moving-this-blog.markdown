@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Moving this blog
 ---
 
@@ -11,7 +11,7 @@ The student's perspective aside, what is the advantage of Jekyll over WordPress?
 
 Jekyll doesn't break down the main page into six (or seven?) component PHP files or anything like that. You have your default page template, which lets you put, in plain old HTML, whatever you'd like around your content, and you have your post template, which lets you add HTML or dynamic elements you'd like into your individual posts. Jekyll is basically a text to HTML engine, so the idea is to configure how you'd like your posts to be HTMLed.
 
-Herein is the benefit and limit of Jekyll when compared to WordPress. WordPress is extremely extendable, can handle multiple different types of content, and has a very nice off-the-shelf backend. It is an extremely capable CMS, but may be a bit too hefty for a simple little blog. It's way bigger than Jekyll, which makes it more versatile, but a little less useable for simple applications like this one.
+Herein lies the benefit and limit of Jekyll when compared to WordPress. WordPress is extremely extendable, can handle multiple different types of content, and has a very nice off-the-shelf backend. It is an extremely capable CMS, but may be a bit too hefty for a simple little blog. It's way bigger than Jekyll, which makes it more versatile, but a little less useable for simple applications like this one.
 
 I still think WordPress is great. It's amazing software. And free! And everyone uses it, so there are tons of neat WP things out there, as well as lots of excellent documentation and support. But, for those of you just blogging, and who are not into Tumblr, Posterous, Blogspot, etc., give Jekyll a try.
 
