@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+<img src="/images/bio_photo.jpg" style="float:right;"/>
+
 <h3>About Me</h3>
 
 I'm a 25 year old from Lewes, Delaware.
