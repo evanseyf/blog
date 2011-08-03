@@ -13,6 +13,6 @@ Jekyll doesn't break down the main page into six (or seven?) component PHP files
 
 Herein is the benefit and limit of Jekyll when compared to WordPress. WordPress is extremely extendable, can handle multiple different types of content, and has a very nice off-the-shelf backend. It is an extremely capable CMS, but may be a bit too hefty for a simple little blog. It's way bigger than Jekyll, which makes it more versatile, but a little less useable for simple applications like this one.
 
-I still think WordPress is great. It's amazing software. And free! And everyone uses it, so there are tons of neat WP things out there, as well as lots of excellent documentation and support. But, for those of you just blogging, and who are not into Tumblr, Posterous, Blogspot, etc., give Jekyll a try*.
+I still think WordPress is great. It's amazing software. And free! And everyone uses it, so there are tons of neat WP things out there, as well as lots of excellent documentation and support. But, for those of you just blogging, and who are not into Tumblr, Posterous, Blogspot, etc., give Jekyll a try.
 
-*_To get Jekyll going for free on GitHub, you'll need to know HTML, CSS, and a little bit of [Git](http://git-scm.com/). They're all worth learning._
+_To get Jekyll going for free on GitHub, you'll need to know HTML, CSS, and a little bit of [Git](http://git-scm.com/). They're all worth learning._
