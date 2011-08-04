@@ -15,8 +15,8 @@ Herein lies the benefit and limit of Jekyll when compared to WordPress. WordPres
 
 I still think WordPress is great. It's amazing software. And free! And everyone uses it, so there are tons of neat WP things out there, as well as lots of excellent documentation and support. But, for those of you just blogging, and who are not into Tumblr, Posterous, Blogspot, etc., give Jekyll a try.
 
-_To get Jekyll going for free on GitHub, you'll need to know HTML, CSS, and a little bit of [Git](http://git-scm.com/). They're all worth learning._
+To get Jekyll going for free on GitHub, you'll need to know HTML, CSS, and a little bit of [Git](http://git-scm.com/). They're all worth learning.
+
+_This is Jekyll's "CMS"! It's great! It's a folder on your computer!_
 
 ![CMS for Jekyll](/images/finder.png)
-
-<span class="caption">This is Jekyll's "CMS"! It's great! It's a folder on your computer!</span>

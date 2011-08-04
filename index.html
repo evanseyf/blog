@@ -4,7 +4,7 @@ title: conor gaffney's weblog
 ---
 
 <div id="posts">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts %}
 	<div class="post">
 		<div class="post-meta">
 			<h1 class="title"><a title="Permanent link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
@@ -12,7 +12,8 @@ title: conor gaffney's weblog
 		</div>
 		
 		<div class="post-content">
-			{{ post.content }}	
+			{{ post.content }}
+			{% include share.html %}
 		</div>
 	</div><!--end post-->
 	

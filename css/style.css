@@ -246,9 +246,8 @@ img {
 	padding: 2px;
 }
 
-.caption {
-	font-size: 10px;
-	font-style: italic;
+.share {
+	margin: 10px 0;
 }
 
 footer nav {
