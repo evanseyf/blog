@@ -9,15 +9,15 @@ Apparently the version of Ruby that ships with Snow Leopard has some trouble com
 
 First you'll want to install RVM from Terminal by running
 
-<pre>
-	<code>bash &lt; &lt;( curl http://rvm.beginrescueend.com/releases/rvm-install-head)</code>
-</pre>
+<code>
+	bash &lt; &lt;( curl http://rvm.beginrescueend.com/releases/rvm-install-head)
+</code>
 
 You'll then have to tell Terminal where to find RVM by running
 
-<pre>
-	<code>[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; . "$HOME/.rvm/scripts/rvm"</code>
-</pre>
+<code>
+	[[ -s "$HOME/.rvm/scripts/rvm" ]] &amp;&amp; . "$HOME/.rvm/scripts/rvm"
+</code>
 
 This will tell Terminal where to find RVM for this session you're in, but to tell Terminal to find RVM each time you open a shell, you'll have to add it permanently to your .bash_profile. If, like me, you don't have a .bash_profile (Terminal doesn't create one for you by default), no worries. Just create one by typing
 
