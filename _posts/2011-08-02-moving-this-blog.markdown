@@ -17,6 +17,6 @@ I still think WordPress is great. It's amazing software. And free! And everyone 
 
 To get Jekyll going for free on GitHub, you'll need to know HTML, CSS, and a little bit of [Git](http://git-scm.com/). They're all worth learning.
 
-_This is Jekyll's "CMS"! It's great! It's a folder on your computer!_
-
 ![CMS for Jekyll](/images/finder.png)
+
+_This is Jekyll's "CMS"! It's great! It's a folder on your computer!_
