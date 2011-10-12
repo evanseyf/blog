@@ -161,6 +161,7 @@ nav li {
 
 nav li a {
 	color: #000;
+	text-decoration: none;
 }
 
 nav li:hover {
