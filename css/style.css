@@ -176,9 +176,15 @@ nav li:hover {
 	line-height: 20px;
 }
 
-#main .title a, #main .title a:hover {
+#main .title a {
 	color: #000;
 	text-decoration: none;
+}
+
+#main .title a:hover {
+	text-decoration: underline;
+	background-color: #fff;
+	color: #000;
 }
 
 #main p {

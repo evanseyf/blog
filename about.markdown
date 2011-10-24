@@ -9,13 +9,13 @@ title: About
 
 I'm a 25 year old from Lewes, Delaware.
 
-I went to the University of Chicago and majored in a program called [Fundamentals](http://fundamentals.uchicago.edu/Welcome.html), administered by Leo Strauss's ghost.
+I'm currently a student at the University of Cambridge in the political thought and intellectual history program(me). I'm researching how linguistic philosophies have complicated the historians task, and what sort of redemption linguistic philosophy and history offer each other.
 
-Recently I've been paying the rent with politics. I worked for the admirable Forrest Claypool and just finished as a staffer on Rahm Emanuel's transition team.
+I did my BA at the University of Chicago in a program called [Fundamentals](http://fundamentals.uchicago.edu/Welcome.html), administered by Leo Strauss's ghost.
+
+After that I paid the rent with politics. I worked for the admirable Forrest Claypool and recently finished as a staffer on Rahm Emanuel's transition team.
 
 Before all of that I worked in Sarajevo as an intern reporting for the [Balkan Investigative Reporting Network](http://www.balkaninsight.com/en/page/all-balkans-home).
-
-I'll be heading across the pond to Cambridge this fall to study for an MPhil in Political Thought and Intellectual History.
 
 I'm interested in the importance of narratives, and like to get outside when I can. My favorite book is Moby Dick, which William Faulkner read once a year.
 
