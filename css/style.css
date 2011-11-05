@@ -240,6 +240,7 @@ img {
 	padding: 2px;
 	display: block;
 	margin: 0 auto;
+	max-width: 660px;
 }
 
 blockquote {
