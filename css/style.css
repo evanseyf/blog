@@ -2,8 +2,7 @@
 
 http://meyerweb.com/eric/tools/css/reset/
    v2.0b1 | 201101
-   NOTE:WORK IN PROGRESS
-   USE WITH CAUTION AND TEST WITH ABANDON */
+*/
 
 html,body,div,span,applet,object,iframe,
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,
@@ -79,7 +78,8 @@ body {
 /*----HEADER----*/
 
 header {
-	background-color: #000;
+	background-color: #34394B;
+	border-bottom: 1px solid #FFB18C;
 }
 
 hgroup {
@@ -89,7 +89,6 @@ hgroup {
 	margin-right: auto;
 	padding: 25px 25px 15px 25px;
 	color: #fff;
-	border-bottom: 2px solid #fff;
 }
 
 hgroup h1 {
@@ -106,46 +105,11 @@ hgroup h2 {
 	margin-left: 20px;
 }
 
-#greader {
-	clear: both;
-	width: 960px;
-	margin-left: auto;
-	margin-right: auto;
-	padding-bottom: 15px;
-}
-
-.reader-publisher-module h3 {
-	color: #fff;
-	float: left;
-	margin-right: 10px;
-}
-
-.reader-publisher-module li {
-	font-size: 12px;
-	display: inline;
-	list-style-image: none;
-}
-
-.reader-publisher-module li a {
-	color: #ffb18c;
-	text-decoration: none;
-	margin-right: 10px;
-}
-
-.reader-publisher-module li a:hover {
-	text-decoration: underline;
-}
-
-.f {
-	display: none;
-	visibility: hidden;
-}
-
 nav {
 	width: 960px;
 	margin-left: auto;
 	margin-right: auto;
-	border-bottom: 2px solid #000;
+	border-bottom: 2px solid #34394B;
 }
 
 nav ul {
@@ -160,7 +124,7 @@ nav li {
 }
 
 nav li a {
-	color: #000;
+	color: #34394B;
 	text-decoration: none;
 }
 
@@ -177,14 +141,14 @@ nav li:hover {
 }
 
 #main .title a {
-	color: #000;
+	color: #34394B;
 	text-decoration: none;
 }
 
 #main .title a:hover {
 	text-decoration: underline;
 	background-color: #fff;
-	color: #000;
+	color: #34394B;
 }
 
 #main p {
@@ -203,6 +167,7 @@ nav li:hover {
 	font-family: Georgia, Times, serif;
 	font-size: 18px;
 	margin-bottom: 10px;
+	color: #34394B;
 }
 
 .post {
