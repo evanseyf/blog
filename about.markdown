@@ -25,4 +25,4 @@ This blog is run on [Jekyll](https://github.com/mojombo/jekyll). I learned what 
 
 Everything I didn't copy and paste, I wrote by hand on a 13" MacBook using TextWrangler.
 
-The fonts are Droid Sans (available courtesy of [Google Web Fonts](http://www.google.com/webfonts)), Helvetica, and Georgia.
+The fonts are Bell Gothic (available courtesy of [Cufon](http://cufon.shoqolate.com/generate/)), Helvetica, and Georgia.
