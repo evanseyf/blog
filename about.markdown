@@ -5,7 +5,7 @@ title: About
 
 <img src="/images/bio_photo.jpg" style="float:right;"/>
 
-<h3>About Me</h3>
+###About Me###
 
 I'm a 25 year old from Lewes, Delaware.
 
@@ -19,7 +19,7 @@ Before all of that I worked in Sarajevo as an intern reporting for the [Balkan I
 
 I'm interested in the importance of narratives, and like to get outside when I can. My favorite book is Moby Dick, which William Faulkner read once a year.
 
-<h3>About this site</h3>
+###About this site###
 
 This blog is run on [Jekyll](https://github.com/mojombo/jekyll). I learned what to put where by browsing [this dude's source](https://github.com/harperreed/harperreed-blog).
 
