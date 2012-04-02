@@ -54,3 +54,11 @@ _I am conflicted about the practice of curation, made ubiquitous and pushed to t
  * Northern Exposure
  * Generation Kill
  * Firefly
+
+###Favorite terms of Cambridge academics###
+
+ * "smuggle in"
+ * "begs the question"
+ * "stalking horse"
+ * "straw man"
+ * "intervention" (used to describe just about any action, whatsoever, made within any context, whatsoever)
