@@ -68,6 +68,12 @@ em {
 	font-style: italic;
 }
 
+hr {
+	color: #34394B;
+	background-color: #34394B;
+	border: none;
+	height: 1px;
+}
 /*----MAIN----*/
 
 body {
