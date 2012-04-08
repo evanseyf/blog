@@ -62,3 +62,4 @@ _I am conflicted about the practice of curation, made ubiquitous and pushed to t
  * "stalking horse"
  * "straw man"
  * "intervention" (used to describe just about any action, whatsoever, made within any context, whatsoever)
+ * "cash out"
