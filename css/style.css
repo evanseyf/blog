@@ -116,6 +116,7 @@ nav {
 	margin-left: auto;
 	margin-right: auto;
 	border-bottom: 2px solid #34394B;
+	clear: both;
 }
 
 nav ul {
@@ -140,10 +141,17 @@ nav li:hover {
 
 /*---POSTS and PAGES----*/
 
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
 #main {
-	width: 660px;
-	margin: 15px auto;
+	width: 600px;
+	margin: 15px 20px 15px 0;
 	line-height: 20px;
+	float: left;
+	padding: 0 10px;
 }
 
 #main .title a {
@@ -161,11 +169,11 @@ nav li:hover {
 	margin-bottom: 10px;
 }
 
-#main a {
+#container a {
 	color: #5778E6;
 }
 
-#main a:hover {
+#container a:hover {
 	color: #88A0EE;
 }
 
@@ -204,6 +212,9 @@ nav li:hover {
 
 .post-content {
 	margin-top: 10px;
+	font-family: Georgia, Times, serif;
+	line-height: 22px;
+	color: #4A4A4A;
 }
 
 img {
@@ -228,18 +239,54 @@ code {
     padding: 2px;
 }
 
-/*.caption {
-	text-align: center;
-	font-size: 11px;
-	margin: 2px;
-}*/
+#secondary {
+	width: 300px;
+	float: left;
+	margin: 30px 0;
+	padding: 15px 10px;
+	background: rgba(240,240,240,1);
+}
 
-#footer-img {
+	#secondary h3 {
+		font-weight: bold;
+		font-size: 16px;
+		border-bottom: 1px solid black;
+	}
+	
+	#secondary li {
+		list-style-type: none;
+		line-height: 16px;
+		margin: 3px 0;
+	}
+	
+	#secondary ul {
+		margin: 10px 0;
+	}
+	
+	#twitter_div h3 a {
+		color: black;
+		text-decoration: none;
+	}
+
+	#tweets ul {
+		margin-bottom: 10px;
+	}
+	
+	#tweets li {
+		margin: 10px 0;
+		border-bottom: 1px dotted #444;
+	}
+
+	#toc {
+		margin-top: 15px;
+	}
+	
+.footer-img {
 	width: 75px;
 	margin: 0 auto;
 }
 
-#footer-img img {
+.footer-img img {
 	border: none;
 }
 

@@ -34,7 +34,6 @@
 			<br />GAFFNEY'S</h2>
 			<h1>B-LOG</h1>
 		</hgroup>
-		<div><br/></div>
 	</header>
 	
 	<nav role="navigation">
@@ -47,10 +46,16 @@
 		</ul>
 	</nav>
 	
-	<div id="main">
-		{{ content }}
-	</div><!--end main-->
-
+	<div id="container">
+		<div id="main">
+			{{ content }}
+		</div><!--end main-->
+	
+		<div id="secondary">
+			{% include secondary.html %}
+		</div><!--end secondary-->
+	</div><!--end container-->
+	
 	<footer role="contentinfo">
 		<nav role="navigation">
 			<ul>
@@ -66,5 +71,6 @@
 </body>
 
 	{% include ganalytics.html %}
+	{% include twitter.html %}
 
 </html>
