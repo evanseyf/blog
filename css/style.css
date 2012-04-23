@@ -197,7 +197,6 @@ nav li:hover {
 .title {
 	font-size: 22px;
 	padding: 15px 0;
-	text-transform: capitalize;
 }
 
 .title a:hover {
