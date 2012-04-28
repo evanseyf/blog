@@ -18,4 +18,4 @@ This reminded me of a [story I heard on RadioLab about 'Sandhogs,'](http://www.r
 Safety standards for these colossal public works projects were generally pretty bad, I gather, but there is one iconic piece of infrastructure whose construction had an almost unblemished safety record: the Golden Gate Bridge. Joseph Strauss, the head engineer, was a fanatic for safety, ordering his workers to make use of such innovations as the hard hat and safety lines. He even had a giant safety net strung up underneath the bridge to catch anyone who was blown off by the frequent gusts. The net was almost as much of an engineering marvel as the bridge. [Here's a little video about it.](http://www.youtube.com/watch?v=KLRCZAXfEa4)
 
 
-_UPDATE:_[The entire NYC municipal photo archive can be found here.](http://mtprawvwdorlna1.nyc.gov/luna/servlet/allCollections) That's 870,000 pictures for your viewing pleasure.
+_UPDATE:_ [The entire NYC municipal photo archive can be found here.](http://mtprawvwdorlna1.nyc.gov/luna/servlet/allCollections) That's 870,000 pictures for your viewing pleasure.
