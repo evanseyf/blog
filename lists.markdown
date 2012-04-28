@@ -63,4 +63,4 @@ _I am conflicted about the practice of curation, made ubiquitous and pushed to t
  * "straw man"
  * "intervention" (used to describe just about any action, whatsoever, made within any context, whatsoever)
  * "cash out"
- * "[a] wrinkle [in something, e.g. an argument, interpretation, etc.]"
+ * "\[a\] wrinkle \[in something, e.g. an argument, interpretation, etc.\]"
