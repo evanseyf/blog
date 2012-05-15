@@ -7,7 +7,7 @@ title: About
 
 ###About Me###
 
-I'm a 25 year old from Lewes, Delaware.
+I'm a 26 year old from Lewes, Delaware.
 
 I'm currently a student at the University of Cambridge in the political thought and intellectual history program. I'm researching how linguistic philosophies have complicated the historians task, and what sort of redemption linguistic philosophy and history offer each other.
 
