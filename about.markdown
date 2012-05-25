@@ -9,7 +9,7 @@ title: About
 
 I'm a 26 year old from Lewes, Delaware.
 
-I'm currently a student at the University of Cambridge in the political thought and intellectual history program. I'm researching how linguistic philosophies have complicated the historians task, and what sort of redemption linguistic philosophy and history offer each other.
+I'm currently a student at the University of Cambridge in the political thought and intellectual history program. I'm researching how linguistic philosophies have complicated the historian's task, and what sort of redemption linguistic philosophy and history offer each other.
 
 I did my BA at the University of Chicago in a program called [Fundamentals](http://fundamentals.uchicago.edu/Welcome.html), administered by Leo Strauss's ghost.
 
