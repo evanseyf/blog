@@ -9,11 +9,11 @@ title: About
 
 I'm a 26 year old from Lewes, Delaware.
 
-I'm currently a student at the University of Cambridge in the political thought and intellectual history program. I'm researching how linguistic philosophies have complicated the historian's task, and what sort of redemption linguistic philosophy and history offer each other.
+I recently completed my MPhil in Political Thought and Intellectual History at the University of Cambridge. My dissertation, titled "Wittgenstein, Moore, and Moore's Paradox," examined the contexts of different philosophies of logic and language between the early and later Wittgenstein, and brought these findings to bear on contemporary debates between so-called resolute and standard readings of Wittgenstein's _Tractatus Logico-Philosophicus_.
 
-I did my BA at the University of Chicago in a program called [Fundamentals](http://fundamentals.uchicago.edu/Welcome.html), administered by Leo Strauss's ghost.
+I did my AB at the University of Chicago in a program called [Fundamentals](http://fundamentals.uchicago.edu/Welcome.html), administered by Leo Strauss's ghost.
 
-After that I paid the rent with politics. I worked for the admirable Forrest Claypool and recently finished as a staffer on Rahm Emanuel's transition team.
+After that I paid the rent with politics. I worked for the admirable Forrest Claypool, and on Rahm Emanuel's mayoral campaign and transition team.
 
 Before all of that I worked in Sarajevo as an intern reporting for the [Balkan Investigative Reporting Network](http://www.balkaninsight.com/en/page/all-balkans-home).
 
