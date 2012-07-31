@@ -294,7 +294,26 @@ footer nav {
 	border-top: 2px solid #000;
 }
 
-/*----MAP PAGE----*/
+/*----LISTS PAGE----*/
+
+#wallpaper-gallery img {
+	max-width: 270px;
+	margin-bottom: 5px;
+}
+
+#col-one {
+	float:left;
+}
+
+#current-bg {
+	border: 3px solid #88A0EE;
+	padding: 0;
+}
+
+
+
+
+/*----MAP PAGE----
 
 #map-canvas {
 	width: 660px;
