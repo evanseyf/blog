@@ -28,6 +28,7 @@ _I am conflicted about the practice of curation, made ubiquitous and pushed to t
  * The Rings of Saturn
  * The Easter Parade
  * The Razor's Edge
+ * In Cold Blood
 
 ###Essays I really like###
 
@@ -45,6 +46,7 @@ _I am conflicted about the practice of curation, made ubiquitous and pushed to t
  * Imitation of Life (1959)
  * The Man Who Shot Liberty Valance (1962)
  * The Rules of the Game (1939)
+ * An Angel at My Table (1990)
 
 ###TV shows I really like###
 
