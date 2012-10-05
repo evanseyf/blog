@@ -18,52 +18,17 @@
 </head>
 
 <body>
-
-	<a href="/"><header>
-		<hgroup>
-			<h2>CONOR
-			<br />GAFFNEY'S</h2>
-			<h1>B-LOG</h1>
-		</hgroup>
-	</header></a>
-	
-	<nav role="navigation">
-		<ul>
-			<li><a href="/">MAIN</a></li>
-			<li><a href="/about">ABOUT</a></li>
-			<li><a href="/resume">RESUME</a></li>
-			<li><a href="/contact">CONTACT</a></li>
-			<li><a href="/lists">LISTS</a></li>
-		</ul>
-	</nav>
-	
-	<div id="container">
-		<div id="main">
-			<div class="post-content">
-			{{ content }}
-			</div>
-		</div><!--end main-->
-	
-		<div id="secondary">
-			{% include secondary.html %}
-		</div><!--end secondary-->
-	</div><!--end container-->
-	
-	<footer role="contentinfo">
-		<nav role="navigation">
-			<ul>
-				<li><a href="/">MAIN</a></li>
-				<li><a href="/about">ABOUT</a></li>
-				<li><a href="/resume">RESUME</a></li>
-				<li><a href="/contact">CONTACT</a></li>
-				<li><a href="/lists">LISTS</a></li>
-			</ul>
+	<header>
+		<nav>
 		</nav>
+	</header>
+	<section id="main">
+		{{ content }}
+	</section><!--end #main-->
+	<footer>
 	</footer>
-
 </body>
 
 	{% include ganalytics.html %}
-	{% include twitter.html %}
 
 </html>
