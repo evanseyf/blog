@@ -20,14 +20,25 @@
 <body>
 	<header>
 		<nav>
+			<ul>
+				<li>Home</li>
+				<li>Blog</li>
+				<li>Resume</li>
+				<li>Work</li>
+			</ul>
 		</nav>
 	</header>
 	<section id="main">
 		<article class="{{ page.title }}">
 			{{ content }}
-		</article><!--end .-->
+		</article><!-- end {{ page.title }}-->
 	</section><!--end #main-->
 	<footer>
+		<ul>
+			<li><h3>This site:</h3><blockquote>This site runs on Jekyll, and served courtesy of Github. It was written by hand in Sublime and inspired by ???</blockquote></li>
+			<li><h3>The author:</h3><blockquote>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et justo diam. Ut ornare congue urna, id consectetur ligula eleifend non.</blockquote></li>
+			<li><img src="/img/seaturtle.jpg" alt="In loving memory of Tom Larson" /></li>
+		</ul>
 	</footer>
 </body>
 
