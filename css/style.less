@@ -1,12 +1,68 @@
 @red: #d14552;
 @gray: #4f4f4f;
 
+html, body {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.4em;
+	color: @gray;
+	padding: 0;
+	margin: 0;
+}
+
+.wrap {
+	width: 100%;
+	margin: 0 auto;
+}
+
+ul, ol {
+	margin-left: 20px;
+	list-style-type: none;
+}
+
+nav {
+	ul {
+		margin: 20px 0;
+		li {
+			float: left;
+			font-size: 2em;
+			font-weight: bold;
+			text-transform: uppercase;
+			text-align: center;
+			width: 25%;
+			a {
+				color: @gray;
+				text-decoration: none;
+				&:hover {
+					color: @red;
+					-webkit-transition: color .2s linear;
+					-moz-transition: color .2s linear;
+					transition: color .2s linear;
+				}
+				&:active {
+
+				}
+			}
+		}
+	}
+}
+
+.home {
+	img {
+		float:left;
+	}
+}
+
 .sevenSixtyEight() {
-	
+	.wrap {
+		width: 768px;
+	}	
 }
 
 .nineSixty() {
-	
+	.wrap {
+		width: 960px;
+	}
 }
 
 @media (min-width: 768px) {
