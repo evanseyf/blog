@@ -5,9 +5,9 @@ title: home
 <section class="lede">
 	<h2>Recently:</h2>
 
-	{{ site.posts.first.content }}
+	{{ site.posts.first.content | truncatewords:200 }}
 
-	<small><a href="/blog">Read more posts &rArr;</a></small>
+	<small><a href="/blog">Read more posts <span>&rArr;</span></a></small>
 </section>
 
 <section class ="about">
@@ -20,4 +20,6 @@ title: home
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et justo diam. Ut ornare congue urna, id consectetur ligula eleifend non. Nulla aliquet faucibus lobortis. Etiam et metus turpis, tincidunt commodo quam. Praesent suscipit venenatis velit, sit amet venenatis arcu tempus vel. Nulla facilisi.</p>
 
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et justo diam. Ut ornare congue urna, id consectetur ligula eleifend non. Nulla aliquet faucibus lobortis. Etiam et metus turpis, tincidunt commodo quam. Praesent suscipit venenatis velit, sit amet venenatis arcu tempus vel. Nulla facilisi.</p>
+
+	<p><strong>A note to the viewer about the intended viewer:</strong> This</p>
 </section>
