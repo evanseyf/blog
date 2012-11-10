@@ -1,0 +1,23 @@
+---
+layout: default
+title: Blog
+---
+
+<div id="posts">
+{% for post in site.posts %}
+	<div class="post">
+		<div class="post-meta">
+			<h1 class="title"><a title="Permanent link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
+			<p class="date">{{post.date | date: "%b %d %Y"}}</p>
+		</div>
+		
+		<div class="post-content">
+			{{ post.content }}
+			<div id="footer-img">
+				<img src="/images/footer.png" title="this is the end of the post">
+			</div>
+		</div>
+	</div><!--end post-->
+	
+{% endfor %}
+</div><!--end posts-->
