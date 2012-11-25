@@ -61,6 +61,7 @@ a {
 
 ul {
 	list-style-type: none;
+	padding-left: 0;
 }
 
 h2 {
@@ -92,7 +93,7 @@ nav {
 	li {
 		.fancyButton(#FF9484, #dd7f71);
 		width: 50%;
-		margin: 20px 0;
+		margin: 20px auto;
 		&:hover {
 			background-color: #faa69a;
 		}
@@ -118,6 +119,24 @@ nav {
 	}
 }
 
+footer li {
+	padding: 20px;
+}
+
+#elsewhere li {
+		.fancyButton(#eaeaea, #EEE);
+		font-size: 0.7em;
+		width: 25%;
+		padding: 5px 7px;
+		margin: 10px;
+		&:hover {
+			background-color: #fdfbfb;
+		}
+		a {
+			color: #444;
+		}
+	}
+
 .sevenSixtyEight() {
 	.about {
 		ul {
@@ -138,24 +157,13 @@ nav {
 		float: left;
 		width: 44%;
 		&:first-child {
-			margin-right: 10%;
+			margin-right: 20px;
 			border-right: 1px solid #eaeaea;
 		}
 	}
 
 	#elsewhere li {
-		.fancyButton(#eaeaea, #EEE);
 		float: left;
-		font-size: 0.7em;
-		width: 25%;
-		padding: 5px 7px;
-		margin: 10px;
-		&:hover {
-			background-color: #fdfbfb;
-		}
-		a {
-			color: #444;
-		}
 	}
 }
 .nineSixty() {
