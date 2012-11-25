@@ -17,11 +17,11 @@
     <meta name="google-site-verification" content="8SZsKUgi5a1LUr1d-1ZcIuAGoUXIXdng5xwVHdwItyA" />
 </head>
 
-<body>
+<body class="{{ page.title }}">
+<div id="container">
 	<header>
 		<nav role="navigation">
 			<ul>
-				<!-- <li><img src="/img/seaturtle.jpg" alt="In loving memory of Tom Larson" title="In loving memory of Tom Larson" /> -->
 				<li><a href="/">Home</a></li>
 				<li><a href="/blog">Blog</a></li>
 				<li><a href="/resume">Resume</a></li>
@@ -31,9 +31,9 @@
 	</header>
 
 	<div id="main">
-		<article class="{{ page.title }}">
+		<article>
 			{{ content }}
-		</article><!-- end .{{ page.title }}-->
+		</article>
 	</div><!--end #main-->
 	<footer>
 		<ul>
@@ -51,9 +51,13 @@
 			</li>
 		</ul>
 	</footer>
+</div><!--end #container-->
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	<script src="scripts/default.js" type="text/javascript"></script>
-	{% include ganalytics.html %}
-</body>
+<img id="footer-img" src="/img/bg/bg_2_opt.jpg" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="scripts/default.js" type="text/javascript"></script>
+{% include ganalytics.html %}
+
+</body><!-- end .{{ page.title }}-->
 </html>
