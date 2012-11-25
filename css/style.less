@@ -1,4 +1,4 @@
-@red: #FF3A4A;
+/*@red: #FF3A4A;
 @gray: #4F4F4F;
 @light-gray: #C8C7C4;
 @blue: #5778E6;
@@ -6,92 +6,165 @@
 @green: #A5C0A1;
 @purple: #C2A1D1;
 @yellow: #FAFAD2;
+*/
 
 @sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-@slab-serif: 'Chaparral Pro', Georgia, Times, sans-serif;
+
+.fancyButton(@bgcolor, @borderColor) {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+	padding: 10px 20px;
+	background-color: @bgcolor;
+	border: 1px solid @borderColor;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	box-shadow: 0 1px 3px #4A4A4A;
+	-webkit-transition: background-color .15s linear,box-shadow .15s linear;
+	-moz-transition: background-color .15s linear,box-shadow .15s linear;
+	transition: background-color .15s linear,box-shadow .15s linear;
+	background-image: linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -moz-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -webkit-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0, 0, 0, 0.1)),color-stop(1,rgba(255, 255, 255, 0.1)));
+}
 
 @font-face {
 	font-family: 'Source Sans Pro';
 	src: url('/fonts/SourceSansPro-Regular.otf');
 }
 
-html, body {
-	font-family: @sans-serif;
-	font-size: 1em;
-	line-height: 1.4em;
-	color: @gray;
-	padding: 0;
-	margin: 0;
+html {
+	background-image: none;
+	border-top: 5px solid #FF9484;
 }
 
-.wrap {
-	width: 100%;
-	padding: 0 20px;
+body {
+	max-width: 960px;
 	margin: 0 auto;
+	font-family: @sans-serif;
+	font-size: 1.1em;
 }
 
-ul, ol {
-	margin-left: 20px;
+a {
+	text-decoration: none;
+	color: #5778E6;
+	&:hover {
+		color: #88A0EE;
+		-webkit-transition: color linear 0.3s;
+		-moz-transition: color linear 0.3s;
+		transition: color linear 0.3s;
+	}
+}
+
+ul {
 	list-style-type: none;
 }
 
-h2, h3 {
-	font-family: 'Chaparral Pro', Georgia, Times, sans-serif;
-	font-style: italic;
-	border-image: linear-gradient();
-	-webkit-border-image:;
-	-moz-border-image:;
+h2 {
+	color: #34394B;
 }
 
-header {
-	background-color: @gray;
-	border-bottom: 2px solid @purple;
-	height: 75px;
-	padding: 20px 0;
+section {
+	padding: 30px;
 }
 
 nav {
 	ul {
-		margin: 0;
-		li {
-			float: left;
-			font-size: 2em;
-			font-weight: bold;
-			text-transform: uppercase;
-			text-align: center;
-			width: 25%;
-			border-bottom: 2px solid @yellow;
-			a {
-				color: @green;
-				text-decoration: none;
-				&:hover {
-					color: @yellow;
-					-webkit-transition: color .2s linear;
-					-moz-transition: color .2s linear;
-					transition: color .2s linear;
-				}
-				&:active {
-					color: @yellow;
-				}
-			}
-		}
+		padding: 0;
+		height: 50px;
+	} 
+	li {
+		float: left;
+		width: 25%;
+		font-size: 1.2em;
+		text-align: center;
+	}
+	a {
+		text-decoration: none;
+		font-weight: bold;
 	}
 }
 
-.home {
-	img {
-		float:left;
+.about {
+	li {
+		.fancyButton(#FF9484, #dd7f71);
+		width: 50%;
+		margin: 20px 0;
+		&:hover {
+			background-color: #faa69a;
+		}
+	}
+
+	.button a {
+		color: #FFF;
+		text-decoration: none;
+	}
+}
+
+.lede {
+	border-top: 5px solid #34394b;
+	border-bottom: 5px solid #34394b;
+	margin-top: 100px;
+
+	h2 {
+		margin-top: 0;
+	}
+
+	small {
+		float: right;
 	}
 }
 
 .sevenSixtyEight() {
-	
-}
-
-.nineSixty() {
-	.wrap {
-		width: 960px;
+	.about {
+		ul {
+			margin-left: 31%;
+		}
+		li {
+			float: left;
+			width: 15%;
+			margin:0 20px;
+		}
+		img {
+			margin: 35px 30px 0 0;
+			float: left;
+		}
 	}
+
+	footer li {
+		float: left;
+		width: 44%;
+		&:first-child {
+			margin-right: 10%;
+			border-right: 1px solid #eaeaea;
+		}
+	}
+
+	#elsewhere li {
+		.fancyButton(#eaeaea, #EEE);
+		float: left;
+		font-size: 0.7em;
+		width: 25%;
+		padding: 5px 7px;
+		margin: 10px;
+		&:hover {
+			background-color: #fdfbfb;
+		}
+		a {
+			color: #444;
+		}
+	}
+}
+.nineSixty() {
+	/*html {
+		background-image: url('/img/bg/bg_2_opt.jpg');
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-position: bottom;
+	}*/
 }
 
 @media (min-width: 768px) {
