@@ -81,6 +81,10 @@ section {
 	padding: 30px;
 }
 
+blockquote {
+	margin: 0;
+}
+
 nav {
 	ul {
 		padding: 0;
@@ -189,16 +193,7 @@ footer li {
 		width: 100%;
 	}
 	.old {
-		height: 100%;
-		opacity: 1;
-		-moz-transition: opacity .25s ease-out;
-		-webkit-transition: opacity .25s ease-out;
-		transition: opacity .25s ease-out;
-		&.hidden {
-			height: 0;
-			opacity: 0;
-			overflow: hidden;
-		}
+		display: none;
 	}
 	button {
 		display: block;
@@ -262,6 +257,9 @@ footer li {
 }
 
 .sevenSixtyEight() {
+	blockquote {
+		margin: 0 40px;
+	}
 	.about {
 		ul {
 			margin-left: 25%;

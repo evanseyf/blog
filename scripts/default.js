@@ -1,7 +1,7 @@
 (function ($, win, doc) {
 
 	$('#toc button').click(function(){
-		$('.old').toggleClass('hidden');
+		$('.old').toggle('ease-out');
 		$(this).toggleClass('less');
 
 		if( $(this).attr('class') === 'less' ) {
