@@ -36,7 +36,6 @@
 
 html {
 	background-image: none;
-	border-top: 5px solid #FF9484;
 }
 
 body {
@@ -52,9 +51,9 @@ code {
 	font-size: 0.8em;
 }
 
-#container {
+#main {
 	max-width: 960px;
-	margin: 0 auto;
+	margin: 70px auto 0 auto;
 }
 
 a {
@@ -85,7 +84,19 @@ blockquote {
 	margin: 0;
 }
 
+header {
+	border-top: 5px solid #FF9484;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background: rgba(255, 255, 255, 0.8);
+	border-bottom: 3px solid #FFF;
+	height: 60px
+}
+
 nav {
+	max-width: 960px;
+	margin: 0 auto;
 	ul {
 		padding: 0;
 		height: 50px;
@@ -225,7 +236,7 @@ footer li {
 }
 
 .blog {	
-	#container {
+	#main {
 		padding: 0 20px;
 	}
 	section {
