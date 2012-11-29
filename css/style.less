@@ -115,6 +115,10 @@ nav {
 
 /*----HOME----*/
 
+.home header {
+	position: absolute;
+}
+
 .about {
 	li {
 		.fancyButton(#FF9484, #dd7f71);
@@ -196,7 +200,7 @@ footer li {
 		margin: 0;
 	}
 	ul {
-		width: 100%;
+		width: auto;
 	}
 	li {
 		display: inline-block;
@@ -210,7 +214,7 @@ footer li {
 		display: block;
 		.fancyButton(#FF9484, #dd7f71);
 		width: 120px;
-		margin: 20px auto;
+		margin: 20px auto 0 auto;
 		color: #FFF;
 		font-size: 0.9em;
 		&:hover {
