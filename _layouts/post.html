@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-<div class="post-meta">
-	<h1 class="title">{{ page.title }}</h1>
-	<p class="date">{{page.date | date: "%b %d %Y"}}</p>
-</div>
-
-	{{ content }}
+<article class="post">
+	<hgroup class="post-meta">
+		<h1 class="title">{{ page.title }}</h1>
+		<p class="date">{{ page.date | date: "%b %d %Y" }}</p>
+	</hgroup>
 	
-	<div class="footer-img">
-		<img src="/images/footer.png" title="this is the end of the post">
-	</div><!--end post-->
+	<section class="post-content">
+		{{ content }}
+	<a href="/blog">&laquo; Back</a>
+	</section>
+</article><!--end .post-->	

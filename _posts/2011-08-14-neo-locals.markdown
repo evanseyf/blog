@@ -9,11 +9,11 @@ It's a really strange place. To begin with, the name doesn't make too much sense
 
 This is "Nassau Grove" ten years ago:
 
-![Sussex County, circa 1992](/images/de-hay.jpg "The farm that is now a sub-division")
+![Sussex County, circa 1992](/img/posts/de-hay.jpg "The farm that is now a sub-division")
 
 This is Nassau Grove today:
 
-![Pleasantville](/images/pleasantville.jpg "Nassau Grove, 2011")
+![Pleasantville](/img/posts/pleasantville.jpg "Nassau Grove, 2011")
 
 My dad refers to Nassau Grove as "Pleasantville," and it is actually quite striking how unreal the place is. For one, all the streets are named after French wines: Grenache Ct, Chablis Ln, Nouveau Ave, uzw. But more importantly, it's not clear who actually lives in Nassau Grove. K. Hovnanian built most of the houses in one go, assuming they would sell without any trouble. Then the recession hit, and modular homes that were selling in the "upper 500s" (as advertised) are now in the "lower 200s." Most of the homes are unoccupied, and I find myself doing a double take whenever I see someone sitting on a porch or walking down Anjou Ct.
 
@@ -21,7 +21,7 @@ Aside from taking the place of a local farm and adding congestion to Sussex Coun
 
 The sense of community in Lewes and Rehoboth is now highly ambiguous. Growing up it felt quite coherent, if prejudiced and exclusive. Take as an example a single beach called the naval jetty.
 
-![The naval jetty](/images/naval-jetty.jpg)
+![The naval jetty](/img/posts/naval-jetty.jpg)
 
 Growing up, the naval jetty was a part of the beach few people went to. It was a bit out of the way compared to the main Cape Henlopen and Rehoboth beaches of the area, and it has lots of obstructions in the water and sand that make it a bit more dangerous. But, it had a nice break, so lots of people went there to surf. You could count on meeting someone you knew there, and more than once as a kid my parents just dropped me off at the beach, assuming that I'd be able to get a ride home with someone's folks.
 

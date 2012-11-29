@@ -3,11 +3,11 @@ layout: post
 title: Novels in 140 Characters
 ---
 
-![Twitter's newest postmodern voice](/images/cfd1.png)
+![Twitter's newest postmodern voice](/img/posts/cfd1.png)
 
 Advancing the Twitter-as-literature genre by leaps and bounds, the Chicago Fire Department's new Twitter account, [@CFDMedia](https://twitter.com/#!/CFDMedia), has burst onto the scene with a flurry of postmodern tweets that are somewhere between the clipped reports of a police scanner and baffling personal appeals. I think it captures the (non) audience of Twitter perfectly. They also appear to be sent from a BlackBerry. City of Chicago standard issue.
 
-![It's just kind of weird](/images/cfd2.png)
+![It's just kind of weird](/img/posts/cfd2.png)
 
 The tweets remind me of Felix Feneon's [_Novels in Three Lines_](http://www.nybooks.com/books/imprints/classics/novels-in-three-lines/), a collection of the several line long news entries Feneon wrote anonymously for _Le Matin_ at the turn of the 20th century. Feneon had a real talent for suggestion, irony, and pathos. For example:
 

@@ -3,12 +3,12 @@ layout: Post
 title: Happy Gaffney, 1996-2011
 ---
 
-![Happy](/images/hap1.jpg)
+![Happy](/img/posts/hap1.jpg)
 
-![Happy](/images/hap2.jpg)
+![Happy](/img/posts/hap2.jpg)
 
-![Happy](/images/hap4.jpg)
+![Happy](/img/posts/hap4.jpg)
 
-![Happy](/images/hap3.jpg)
+![Happy](/img/posts/hap3.jpg)
 
-![Happy](/images/hap6.jpg)
+![Happy](/img/posts/hap6.jpg)

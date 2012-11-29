@@ -3,21 +3,30 @@ layout: default
 title: Blog
 ---
 
-<div id="posts">
+	<div id="toc">
+		<h2>Table of Contents:</h2>
+		<ul>
+			{% for post in site.posts limit:10 %}
+				<li><a href="{{ post.url }}">&raquo; {{ post.title }}</a> <small>{{ post.date | date: "%b %d %Y" }}</small></li>
+			{% endfor %}
+			<div class="old hidden">
+			{% for post in site.posts offset:10 %}
+				<li><a href="{{ post.url }}">&raquo; {{ post.title }}</a> <small>{{ post.date | date: "%b %d %Y" }}</small></li>
+			{% endfor %}
+			</div>
+		</ul>
+		<button type="button"><i></i>More</button><!-- <a href="http://thenounproject.com/noun/arrow-down/#icon-No2742" target="_blank">Arrow Down</a> designed by <a href="http://thenounproject.com/somerandomdude" target="_blank">P.J. Onori</a> from The Noun Project -->
+	</div>
+
 {% for post in site.posts %}
-	<div class="post">
-		<div class="post-meta">
+	<article class="post">
+		<hgroup class="post-meta">
 			<h1 class="title"><a title="Permanent link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
 			<p class="date">{{post.date | date: "%b %d %Y"}}</p>
-		</div>
+		</hgroup>
 		
-		<div class="post-content">
+		<section class="post-content">
 			{{ post.content }}
-			<div id="footer-img">
-				<img src="/images/footer.png" title="this is the end of the post">
-			</div>
-		</div>
-	</div><!--end post-->
-	
+		</section>
+	</article><!--end .post-->	
 {% endfor %}
-</div><!--end posts-->

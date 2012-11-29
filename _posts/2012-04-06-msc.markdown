@@ -57,4 +57,4 @@ Theodore Redpath (Honorable Secretary)
 
 And here is some entertaining marginalia found in a library copy of the _Tractatus Logico-Philosophicus_:
 
-![Cheeky boy](/images/tlp.jpg)
+![Cheeky boy](/img/posts/tlp.jpg)

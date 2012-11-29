@@ -13,29 +13,29 @@ The best measure of the show's portrayal of place are the scene setting shots of
 
 __Here are some from Season One:__
 
-![Dillon, Texas, Season One](/images/fnl-s1-5.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-5.png "Dillon, Texas, Season One")
 
-![Dillon, Texas, Season One](/images/fnl-s1-4.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-4.png "Dillon, Texas, Season One")
 
-![Dillon, Texas, Season One](/images/fnl-s1-3.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-3.png "Dillon, Texas, Season One")
 
-![Dillon, Texas, Season One](/images/fnl-s1-2.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-2.png "Dillon, Texas, Season One")
 
-![Dillon, Texas, Season One](/images/fnl-s1-6.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-6.png "Dillon, Texas, Season One")
 
-![Dillon, Texas, Season One](/images/fnl-s1-1.png "Dillon, Texas, Season One")
+![Dillon, Texas, Season One](/img/posts/fnl-s1-1.png "Dillon, Texas, Season One")
 
 __And here are some from Season Five:__
 
-![Dillon, Texas, Season Five](/images/fnl-s5-4.png "Dillon, Texas, Season Five")
+![Dillon, Texas, Season Five](/img/posts/fnl-s5-4.png "Dillon, Texas, Season Five")
 
-![Dillon, Texas, Season Five](/images/fnl-s5-5.png "Dillon, Texas, Season Five")
+![Dillon, Texas, Season Five](/img/posts/fnl-s5-5.png "Dillon, Texas, Season Five")
 
-![Dillon, Texas, Season Five](/images/fnl-s5-1.png "Dillon, Texas, Season Five")
+![Dillon, Texas, Season Five](/img/posts/fnl-s5-1.png "Dillon, Texas, Season Five")
 
-![Dillon, Texas, Season Five](/images/fnl-s5-2.png "Dillon, Texas, Season Five")
+![Dillon, Texas, Season Five](/img/posts/fnl-s5-2.png "Dillon, Texas, Season Five")
 
-![Dillon, Texas, Season Five](/images/fnl-s5-6.png "Dillon, Texas, Season Five")
+![Dillon, Texas, Season Five](/img/posts/fnl-s5-6.png "Dillon, Texas, Season Five")
 
 In this last shot, the dialogue is actually:
 

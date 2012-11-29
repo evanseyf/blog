@@ -1,14 +1,7 @@
-/*@red: #FF3A4A;
-@gray: #4F4F4F;
-@light-gray: #C8C7C4;
-@blue: #5778E6;
-@light-blue: #A0B4C8;
-@green: #A5C0A1;
-@purple: #C2A1D1;
-@yellow: #FAFAD2;
-*/
+/*----GLOBAL----*/
 
 @sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@monospace: 'Monaco', monospace;
 
 .fancyButton(@bgcolor, @borderColor) {
 	text-align: center;
@@ -36,6 +29,11 @@
 	src: url('/fonts/SourceSansPro-Regular.otf');
 }
 
+/*@font-face {
+	font-family: 'Source Code Pro';
+	src: url('fonts/SourceCodePro-Regular.otf');
+}*/
+
 html {
 	background-image: none;
 	border-top: 5px solid #FF9484;
@@ -45,6 +43,13 @@ body {
 	font-family: @sans-serif;
 	font-size: 1.1em;
 	margin: 0;
+}
+
+code {
+	font-family: @monospace;
+	background-color: #eaeaea;
+	padding: 2px;
+	font-size: 0.8em;
 }
 
 #container {
@@ -93,6 +98,8 @@ nav {
 	}
 }
 
+/*----HOME----*/
+
 .about {
 	li {
 		.fancyButton(#FF9484, #dd7f71);
@@ -112,12 +119,9 @@ nav {
 .lede {
 	border-top: 5px solid #34394b;
 	border-bottom: 5px solid #34394b;
-	margin-top: 100px;
-
 	h2 {
 		margin-top: 0;
 	}
-
 	small {
 		float: right;
 	}
@@ -167,10 +171,100 @@ footer li {
 	display: none;
 }
 
+/*----BLOG----*/
+
+#toc {
+	background-color: #eaeaea;
+	padding: 20px;
+	h2 {
+		border-bottom: 2px solid #34394B;
+		margin: 0;
+	}
+	ul {
+		width: 100%;
+	}
+	li {
+		display: inline-block;
+		font-size: 0.8em;
+		width: 100%;
+	}
+	.old {
+		height: 100%;
+		opacity: 1;
+		-moz-transition: opacity .25s ease-out;
+		-webkit-transition: opacity .25s ease-out;
+		transition: opacity .25s ease-out;
+		&.hidden {
+			height: 0;
+			opacity: 0;
+			overflow: hidden;
+		}
+	}
+	button {
+		display: block;
+		.fancyButton(#FF9484, #dd7f71);
+		width: 120px;
+		margin: 20px auto;
+		color: #FFF;
+		font-size: 0.9em;
+		&:hover {
+			background-color: #faa69a;
+		}
+	}
+	i {
+		display: block;
+		height: 16px;
+		width: 16px;
+		background: url('/img/i-down-arrow.png') no-repeat;
+		float: left;
+		-webkit-transition: -webkit-transform .5s;
+		-moz-transition: -moz-transform .5s;
+		transition: transform .5s;
+	}
+	.less i {
+		-ms-transform: rotate(-180deg);
+		-webkit-transform: rotate(-180deg);
+		-moz-transform: rotate(-180deg);
+		transform: rotate(-180deg);
+	}
+}
+
+.blog {	
+	#container {
+		padding: 0 20px;
+	}
+	section {
+		padding-top: 0px;
+		border-bottom: 2px solid #34394B;
+		color: #444;
+	}
+	hgroup {
+		border-bottom: 1px solid #eaeaea;
+		h1 {
+			margin-bottom: 0;
+		}
+	}
+	.date {
+		color: #4A4A4A;
+		margin-left: 30px;
+		font-size: 0.9em;
+	}
+	img {
+		max-width: 100%;
+		display: block;
+		margin: 0 auto;
+	}
+	section blockquote {
+		background-color: #eaeaea;
+		padding: 5px 10px;
+		border-left: 3px solid #FF9484;
+	}
+}
+
 .sevenSixtyEight() {
 	.about {
 		ul {
-			margin-left: 31%;
+			margin-left: 25%;
 		}
 		li {
 			float: left;
@@ -178,9 +272,13 @@ footer li {
 			margin:0 20px;
 		}
 		img {
-			margin: 35px 30px 0 0;
+			margin: 35px 30px 50px 0;
 			float: left;
 		}
+	}
+
+	.lede {
+		margin-top: 100px;
 	}
 
 	footer li {
@@ -202,14 +300,18 @@ footer li {
 		width: 100%;
 		height: auto;
 	}
+
+	#toc {
+		ul {
+			margin-left: 50px;
+		}
+		li {
+			width: 45%;
+		}
+	}
 }
 .nineSixty() {
-	/*html {
-		background-image: url('/img/bg/bg_2_opt.jpg');
-		background-size: 100%;
-		background-repeat: no-repeat;
-		background-position: bottom;
-	}*/
+
 }
 
 @media (min-width: 768px) {

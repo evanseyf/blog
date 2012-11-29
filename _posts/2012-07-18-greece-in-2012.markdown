@@ -5,13 +5,13 @@ title: Greece in 2012
 
 Did I ever tell you about that time I went to Greece with my younger brother and some friends from college?
 
-![Zooming along in a water taxi from Hydra](/images/hydra.jpg "Zooming along in a water taxi from Hydra")
+![Zooming along in a water taxi from Hydra](/img/posts/hydra.jpg "Zooming along in a water taxi from Hydra")
 
 It all started the morning of June 6, when our dissertations were due. As previously arranged, I met two friends in the graduate research room (GRR), an elevated, 24-hour box of computers in the history faculty with free printing and all varieties of desperation. The atmosphere was faintly buzzing. I saw some coursemates who had not had to fortune to leave the GRR the night before, one smiling from behind empty bags of gummy bears and a stack of the classics of Western political thought from Montesquieu to Cohen. We printed our dissertations and walked to the graduate union to get them bound. It looked like it was going to rain. It didn't rain. Then it rained a little. We waited in the cafe at the union while our dissertations were bound. We had received an alarming email from the administration weeks earlier reminding us that June 6 was the Queen's jubilee and it was unclear how this would impact the paper binding in Cambridge. It was over quickly, and was inexpensive. 
 
 It didn't rain as we walked back to the history faculty and handed our papers in. "Um, well done!" our course secretary told us. It was done. So I went home and stacked books to be returned to the library and put all the documents on my desktop into a folder called "MPhil." Then I cut across the cemetery to a pub to meet some friends. The nervous feeling of anti-climax wore off soon after the first drink and slow waves of relief began to roll in. It was nice to sit and talk to L-- and A-- about our feelings of frustration with the (perhaps unnecessarily) rushed process of writing a 20k word dissertation in one month. Is this what an academic career is going to be like? Surely not. It cannot be. We debated. And then, in a pathetic fallacy, it began to pour and there was thunder which is unusual anywhere in Britain. As the storm ended we realized we were quite drunk, quite exhausted, and nervous with something which I told myself was nervousness at having a lot of things to do now, but not knowing where or when to begin. 
 
-![Trinity St](/images/anne_cam.jpg "Trinity St, Cambridge. Photo by Anne Mishkind")
+![Trinity St](/img/posts/anne_cam.jpg "Trinity St, Cambridge. Photo by Anne Mishkind")
 
 _(Anne Mishkind took the above photo. It's nice! It's also Trinity St, Cambridge)_
 
@@ -19,21 +19,21 @@ I did have a lot of things to do. I had to return my library books. I had to mee
 
 On our way to Athens, Nat and I spent a dreadful six hours laid over in the Geneva airport, where Nat's bag decided to remain for the next two days. By some great stroke of luck, I found an extraordinary apartment in Athens for a great rate on AirBnb, and Heather, who had arrived many hours before me and Nat, was there to greet us when we arrived at 1:30 am. We were staying in a woman named Gina's apartment, in the neighborhood of Exarhia (ΕΞΑΡΧΙΑ), on a street that ran from Strefi Hill to Likavitos Hill. Exarhia, we were told, is "where every revolution in Greek history has ever begun." It governed itself, and when the police tried to come in the neighborhood to regulate protests and public gatherings, they were simply pushed out by the residents. We were in the right neighborhood at the right time, it appeared. All thirty-two factions of the Left seemed to have a presence in Exarhia. There were posters and graffiti everywhere, my favorite of which simply said "weg."
 
-![Me and Nat in Gina's apartment](/images/heath_gina.jpg "Me and Nat in Gina's apartment in Exarhia")
+![Me and Nat in Gina's apartment](/img/posts/heath_gina.jpg "Me and Nat in Gina's apartment in Exarhia")
 
 _Me and Nat in Gina's apartment in Exarhia. Heather took this photo._
 
-![The view from Gina's balcony](/images/gina_apt_1.jpg "The view from Gina's back balcony")
+![The view from Gina's balcony](/img/posts/gina_apt_1.jpg "The view from Gina's back balcony")
 
 _The view from Gina's back balcony._
 
-![The view from Lykavitos Hill](/images/lyka_view.jpg "There's Gina's apartment down there! From Lykavitos Hill")
+![The view from Lykavitos Hill](/img/posts/lyka_view.jpg "There's Gina's apartment down there! From Lykavitos Hill")
 
 _There's Gina's apartment down there! From Lykavitos Hill._
 
 We spent a few days in Athens. Danielle and her friend from Beirut, Emma, met us and after some furious internet searching and creative negotiating, we found an apartment to stay in on the island of Poros and a way to get there. The apartment was owned by a young IT professional named Agamemnon who was also running for parliament as the leader of his own, newly founded party. He didn't seem to want to go into details about his party's platform, but after calling Syriza crazy he said we Americans would call his party a center-left party. I'm not sure if Agamemnon appreciated that center-left in America is pretty far-right everywhere else in the world. Maybe he did. He was good at negotiations. The resting state of the entire trip was one of mild logistical nightmare, and of course the leg in Agamemnon's island getaway provided no exception. Agamemnon, the keys to his place in Poros, and our merry band of travelers were all in Athens. However, the last ferry from Athens to Poros left at 6 pm, before Agamemnon could get out of work and deliver us his keys. We offered to stop by his work -- out of the question. He offered to get his mother to drop them off to us in Exarhia -- quickly eliminated. He finally suggested that our group split into two, half taking the last ferry from Athens, and half going with him to Poros by car and a later ferry from the Peloponnese. It worked. In extreme vacation _geist_, Heather, Nat, and I waited on the quayside in Poros town sipping white wine and watching the sun set while Danielle, and Emma were hurtling towards us across the Peloponnese in Agamemnon's car.
 
-![Poros](/images/nat_poros.jpg "While we were waiting")
+![Poros](/img/posts/nat_poros.jpg "While we were waiting")
 
 _A photo Nat took while we were waiting in Poros town._
 
@@ -77,13 +77,13 @@ We picked Poros at random from Athens, but ended up lucking out. The island is m
 	Who will accept our offering, at this close of autumn?</p>
 </blockquote>
 
-![The other side of Poros](/images/v_bay.jpg)
+![The other side of Poros](/img/posts/v_bay.jpg)
 
-![Nat in Russian Bay](/images/nat_r_bay.jpg)
+![Nat in Russian Bay](/img/posts/nat_r_bay.jpg)
 
 We spent four days on Poros. On one day, we took a ferry to Hydra. Hydra was rich during the 18th and 19th centuries. It had some fancy shipbuilders, a few admirals, and other big shots in the Ottoman navy. The island has a lot of beautiful old mansions, no cars, and not a few donkeys. By donkeys I mean the equine and the type of American tourist who thinks it's neat or something to busk around Europe. We hightailed it out of Hydra town to a nearby beach once the crusty buskers discovered each other and began busking back and forth in some facile display of liberated spirits. Despite Hydra's beautiful streetscapes and total lack of cars, there was a bit too much English spoken for our taste (and spoken on too limited a range of subjects: "I got so wasted last night," "Before you say anything, let me remind you I am wasted," "Do you want to get wasted now?").
 
-![Dr. Gold in Hydra](/images/heath_hydra.jpg "Dr. Gold in Hydra")
+![Dr. Gold in Hydra](/img/posts/heath_hydra.jpg "Dr. Gold in Hydra")
 
 _Dr. Gold in Hydra, sans repulsive tourists._
 
@@ -107,7 +107,7 @@ It became clear after a while that Dan and I would have to invite ourselves on b
 
 We couldn't stay long on Tom Joyner's yacht. They had to sail to Athens, and we had to catch the ferry to Athens. Before we jumped off to swim back in to shore, Tom invited us to meet him at a club in Athens that night at midnight. His assistant would email us the details. How exciting, we thought! That was the last time we heard from Tom Joyner.
 
-![Tom Joyner's yacht in Russian Bay](/images/joyner_yacht.jpg "Tom Joyner's yacht in Russian Bay")
+![Tom Joyner's yacht in Russian Bay](/img/posts/joyner_yacht.jpg "Tom Joyner's yacht in Russian Bay")
 
 _Tom Joyner's yacht in Russian Bay._
 
@@ -117,7 +117,7 @@ In Athens there were a lot of physical signs of an impending major election. Var
 
 And so on election day we waited in Exarhia to see what would happen. It was a quiet, sunny, windy day. Everything was closed as the Greeks went to the polls, and then presumably went home. In the late afternoon, as the polls were closing, Dan and I went out to walk up Lykavitos Hill and to find some groceries for dinner that night. All of the stores were shut and the streets were empty of people and cars. Pairs of police in riot gear lounged on the corners near the border of Exarhia and the more upscale neighborhoods to the north. After walking through a deserted city populated only by the occasional heavily-armored police man, Dan and I came to a surreal sight at the top of Lykavitos Hill. A polished cafe with on a marble deck overlooking the city was bustling with tourists and Greek families. Some cheesy music came from tinny speakers in the rocks around the hilltop. Next to the cafe was a tiny church from the 19th century. Two Greek soldiers were taking down the flag for the day. People were crowding onto the deck around the church to watch the sun set over Athens. 
 
-![Dan on Lykavitos Hill](/images/dan_lyka.jpg "Dan on Lykavitos Hill")
+![Dan on Lykavitos Hill](/img/posts/dan_lyka.jpg "Dan on Lykavitos Hill")
 
 _Dan and the church on Lykavitos Hill._
 
@@ -125,5 +125,5 @@ We walked back down into Exarhia and ran into Danielle on the street, out for a 
 
 At some point as we were getting ready for dinner, someone looked online for election updates and announced that the New Democracy party had won by a slim margin. That was it. The election was over and nothing had happened. Exarhia was still quiet as it had been all day. So we spent election night watching Hitchcock in a vine-covered outdoor cinema. I nodded off during the movie at some point, and after it was over we walked the few blocks back to Gina's apartment and fell asleep. Thus ended our adventures in political crises. 
 
-![The outdoor cinema in Athens](/images/athens_cinema.jpg "The outdoor cinema in Exarhia")
+![The outdoor cinema in Athens](/img/posts/athens_cinema.jpg "The outdoor cinema in Exarhia")
 
