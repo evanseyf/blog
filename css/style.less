@@ -125,6 +125,7 @@ nav {
 		.fancyButton(@salmon, #dd7f71);
 		width: 50%;
 		margin: 20px auto;
+		color: #FFF;
 		&:hover {
 			background-color: #faa69a;
 		}
@@ -274,20 +275,22 @@ footer li {
 
 /*----RESUME----*/
 
-.resume {
+.resume, .work {
 	#main {
 		margin-top: 90px;
 	}
 	background-color: #eaeaea;
-	a.pdf {
+	a.button {
 		.fancyButton(@salmon, #dd7f71);
 		width: 120px;
 		margin-right: 20px;
-		float: right;
 		padding: 5px 15px;
 		color: #FFF;
 		&:hover {
 			background-color: #faa69a;
+		}
+		&.right {
+			float: right;
 		}
 	}
 	small {
@@ -373,7 +376,7 @@ footer li {
 			width: 45%;
 		}
 	}
-	.resume {
+	.resume, .work {
 		.img-col{
 			float:left;
 			width: 30%;
@@ -385,6 +388,9 @@ footer li {
 			margin: 0;
 			float: left;
 			width: 60%;
+		}
+		footer li:first-child {
+			border-right: 1px solid #FFF;
 		}
 	}
 }

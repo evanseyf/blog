@@ -17,7 +17,7 @@
     <meta name="google-site-verification" content="8SZsKUgi5a1LUr1d-1ZcIuAGoUXIXdng5xwVHdwItyA" />
 </head>
 
-<body class=" {% if page.title != 'home' || 'blog' || 'work' || 'resume' %}
+<body class=" {% if page.url.start_with?('/20') %}
 blog
 {% else %}
 {{ page.title | downcase}}
@@ -40,7 +40,7 @@ blog
 		
 	<footer>
 		<ul>
-			<li><h3>This site:</h3><blockquote>This site runs on <a href="https://github.com/mojombo/jekyll/wiki">Jekyll</a>, and served gratis, courtesy of GitHub. It was written by hand using HTML, Liquid, and CSS (<a href="http://lesscss.org/">LESS</a>). I designed it mobile first, <a href="http://www.alistapart.com/articles/responsive-comping-obtaining-signoff-with-mockups/">in browser</a>, and that's why the updates take a while to come. But it's worth it.<blockquote></li>
+			<li><h3>This site:</h3><blockquote>This site runs on <a href="https://github.com/mojombo/jekyll/wiki">Jekyll</a>, and served gratis, courtesy of GitHub. It was written by hand using HTML, Liquid, and CSS (<a href="http://lesscss.org/">LESS</a>). I designed it mobile first, <a href="http://www.alistapart.com/articles/responsive-comping-obtaining-signoff-with-mockups/">in browser</a>, and that's why the updates take a while to come. But I learn more this way.<blockquote></li>
 			<li>
 				<h3>Elsewhere:</h3>
 				<blockquote>
