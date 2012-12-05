@@ -30,11 +30,6 @@
 	src: url('/fonts/SourceSansPro-Regular.otf');
 }
 
-/*@font-face {
-	font-family: 'Source Code Pro';
-	src: url('fonts/SourceCodePro-Regular.otf');
-}*/
-
 html {
 	background-image: none;
 }
@@ -43,6 +38,7 @@ body {
 	font-family: @sans-serif;
 	font-size: 1.1em;
 	margin: 0;
+	text-rendering: optimizeLegibility;
 }
 
 code {
@@ -140,11 +136,21 @@ nav {
 .lede {
 	border-top: 5px solid #34394b;
 	border-bottom: 5px solid #34394b;
+	padding-bottom: 5px;
+	overflow: hidden;
 	h2 {
 		margin-top: 0;
 	}
+	img {
+		float: left;
+		margin: 0 10px 10px 10px;
+	}
 	small {
-		float: right;
+		display: block;
+		text-align: right;
+		&.caption {
+			display: none;
+		}
 	}
 }
 
@@ -265,11 +271,19 @@ footer li {
 		max-width: 100%;
 		display: block;
 		margin: 0 auto;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
 	}
 	section blockquote {
 		background-color: #eaeaea;
 		padding: 5px 10px;
 		border-left: 3px solid @salmon;
+	}
+	.caption {
+		display: block;
+		text-align: center;
+		color: #4E4E4E;
 	}
 }
 
@@ -346,6 +360,9 @@ footer li {
 
 	.lede {
 		margin-top: 100px;
+		img {
+			width: 33%;
+		}
 	}
 
 	footer li {
@@ -410,4 +427,9 @@ footer li {
 	#footer-img {
 		display: none;
 	}
+}
+
+.oldie {
+	.sevenSixtyEight();
+	.nineSixty();
 }
