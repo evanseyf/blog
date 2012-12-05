@@ -28,9 +28,9 @@ title: home
 	<section class="lede">
 		<h2><a href="/blog">Recently:</a></h2>
 
-		{{ site.posts.first.content | truncatewords:250 }}
+		{{ site.posts.first.content | truncatewords:200 | remove_img:1 }}
 
-		<small><a href="/blog">Read more posts <span>&rArr;</span></a></small>
+		<small><a href="/blog">Read more<span>&rArr;</span></a></small>
 	</section>
 
 </article>
