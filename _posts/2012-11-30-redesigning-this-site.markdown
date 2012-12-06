@@ -3,7 +3,7 @@ layout: post
 title: Redesigning this site
 ---
 
-My website was in sore need of an overhaul. I hadn't really looked at seriously in more than a year, and I won't go into all the embarassing problems. But suffice it to list: the site was not responsive (still on the 960px grid system of yore), it had an unmanageably long front page displaying every post, I hadn't fixed a broken implementation of Twitter's API, and the site, overall, was set up like any out-of-the-box blog + static pages concoction.
+My website was in sore need of an overhaul. I hadn't really looked at it seriously in more than a year, and I won't go into all the embarassing problems. But suffice it to list: the site was not responsive (still on the 960px grid system of yore), it had an unmanageably long front page displaying every post, I hadn't fixed a broken implementation of Twitter's API, and the site, overall, was set up like any out-of-the-box blog + static pages concoction.
 
 ![Ew](/img/posts/old-site-homepage.png)
 <small class="caption">This is what it looked like</small>
@@ -14,7 +14,7 @@ My website was in sore need of an overhaul. I hadn't really looked at seriously 
 ![Triple ew](/img/posts/old-site-resume.png)
 <small class="caption">And this is what my resume page, on the same site, looked like. Completely different!</small>
 
-Firstly, I wanted to learn about my site's few visitors. A glance at my analytics dashboard revealed that the vast majority of visitors were new, and most spent a few seconds on the home (blog) page before going to /about or /resume. So I could pretty safely conclude what I suspected: that most people who came to my site were looking for more information about me and not coming regularly to read my fascinating, and very occasional, blog posts. Clearly, my resume and other professional information needed to be front and center. But more than this, the content of my website should all be roughly focused around things I've done for work or for school. My blog really does not have a following (sorry, mom).
+Firstly, I wanted to learn about my site's few visitors. A glance at my analytics dashboard revealed that the vast majority of visitors were new, and most spent a few seconds on the home (blog) page before going to /about or /resume. So I could pretty safely conclude what I suspected all along: that most people who came to my site were looking for more information about me and not coming regularly to read my fascinating, and very occasional, blog posts. Clearly, my resume and other professional information needed to be front and center. But more than this, the content of my website should all be roughly focused around things I've done for work or for school. My blog really does not have a following (sorry, mom).
 
 I only had one real idea when it came to re-designing my site: my content is and will be mostly text, not images, so typography would be important. There was a problem: I know nothing about type. So I decided to just pick one that I liked and take it from there.
 
