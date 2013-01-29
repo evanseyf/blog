@@ -69,10 +69,9 @@ nav li {
   text-align: center;
   height: 50px;
   padding-top: 20px;
-  /*&:hover {
-			background-color: #eaeaea;
-		}*/
-
+}
+nav li:active {
+  background-color: #eaeaea;
 }
 nav a {
   text-decoration: none;
