@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the history of Bosnia is important (just one reason)
+title: (one reason) Why the history of Bosnia is important
 ---
 
 I just finished reading Noel Malcolm's [_Bosnia: A Short History_](http://books.google.com/books/about/Bosnia.html?id=Cvk6oMf9R7AC). Malcolm, in  addition to being one of the foremost intellectual historians in the world and an authority on Thomas Hobbes, also does history of the Balkans and moonlights as an magazine editor and a syndicated columnist. Sheesh.
