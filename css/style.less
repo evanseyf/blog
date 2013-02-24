@@ -1,29 +1,5 @@
 /*----GLOBAL----*/
-
-@sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-@monospace: 'Monaco', monospace;
-@salmon: #FF9484;
-
-.fancyButton(@bgcolor, @borderColor) {
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: bold;
-	cursor: pointer;
-	padding: 10px 20px;
-	background-color: @bgcolor;
-	border: 1px solid @borderColor;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
-	box-shadow: 0 1px 3px #4A4A4A;
-	-webkit-transition: background-color .15s linear,box-shadow .15s linear;
-	-moz-transition: background-color .15s linear,box-shadow .15s linear;
-	transition: background-color .15s linear,box-shadow .15s linear;
-	background-image: linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
-	background-image: -moz-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
-	background-image: -webkit-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
-	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0, 0, 0, 0.1)),color-stop(1,rgba(255, 255, 255, 0.1)));
-}
+@import 'variables';
 
 @font-face {
 	font-family: 'Source Sans Pro';
@@ -79,6 +55,17 @@ section {
 
 blockquote {
 	margin: 0;
+}
+
+figure img {
+	display: block;
+	margin: 0 auto;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 13px;
+	color: #4A4A4A;
 }
 
 header {
@@ -138,6 +125,9 @@ nav {
 	.button a {
 		color: #FFF;
 		text-decoration: none;
+	}
+	.seven {
+		margin-bottom: 20px;
 	}
 }
 
@@ -242,7 +232,7 @@ footer li {
 		display: block;
 		height: 16px;
 		width: 16px;
-		background: url('/img/i-down-arrow.png') no-repeat;
+		background: url('/img/i-down-arrow.png') no-repeat 0 5px;
 		float: left;
 		-webkit-transition: -webkit-transform .5s;
 		-moz-transition: -moz-transform .5s;
@@ -338,14 +328,6 @@ footer li {
 			font-size: 0.9em;
 		}
 	}
-	.img-col {
-		margin: 20px auto;
-		display: block;
-	}
-	.text-col {
-		display: block;
-		margin:0 20px;
-	}
 }
 
 .sevenSixtyEight() {
@@ -353,17 +335,9 @@ footer li {
 		margin: 0 40px;
 	}
 	.about {
-		ul {
-			margin-left: 25%;
-		}
 		li {
 			float: left;
-			width: 15%;
-			margin:0 20px;
-		}
-		img {
-			margin: 35px 30px 50px 0;
-			float: left;
+			margin:0 20px 10px 20px;
 		}
 	}
 
@@ -403,25 +377,18 @@ footer li {
 		}
 	}
 	.resume, .work {
-		.img-col{
-			float:left;
-			width: 30%;
-			margin: 10px 5% 0 5%;
-			display: block;
-		}
-		.text-col {
-			display: block;
-			margin: 0;
-			float: left;
-			width: 60%;
-		}
 		footer li:first-child {
 			border-right: 1px solid #FFF;
 		}
 	}
 }
 .nineSixty() {
-
+	.about {
+		li {
+			width: 15%;
+			margin: 0 20px;
+		}
+	}
 }
 
 @media (min-width: 768px) {

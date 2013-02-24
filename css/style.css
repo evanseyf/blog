@@ -45,6 +45,15 @@ section {
 blockquote {
   margin: 0;
 }
+figure img {
+  display: block;
+  margin: 0 auto;
+}
+figcaption {
+  text-align: center;
+  font-size: 13px;
+  color: #4A4A4A;
+}
 header {
   border-top: 5px solid #ff9484;
   position: fixed;
@@ -113,6 +122,9 @@ nav a {
 .about .button a {
   color: #FFF;
   text-decoration: none;
+}
+.about .seven {
+  margin-bottom: 20px;
 }
 .lede {
   border-top: 5px solid #34394b;
@@ -360,31 +372,13 @@ footer li {
 .work section p {
   font-size: 0.9em;
 }
-.resume .img-col,
-.work .img-col {
-  margin: 20px auto;
-  display: block;
-}
-.resume .text-col,
-.work .text-col {
-  display: block;
-  margin: 0 20px;
-}
 @media (min-width: 768px) {
   blockquote {
     margin: 0 40px;
   }
-  .about ul {
-    margin-left: 25%;
-  }
   .about li {
     float: left;
-    width: 15%;
-    margin: 0 20px;
-  }
-  .about img {
-    margin: 35px 30px 50px 0;
-    float: left;
+    margin: 0 20px 10px 20px;
   }
   .lede {
     margin-top: 100px;
@@ -415,27 +409,16 @@ footer li {
   #toc li {
     width: 45%;
   }
-  .resume .img-col,
-  .work .img-col {
-    float: left;
-    width: 30%;
-    margin: 10px 5% 0 5%;
-    display: block;
-  }
-  .resume .text-col,
-  .work .text-col {
-    display: block;
-    margin: 0;
-    float: left;
-    width: 60%;
-  }
   .resume footer li:first-child,
   .work footer li:first-child {
     border-right: 1px solid #FFF;
   }
 }
 @media (min-width: 960px) {
-  
+  .about li {
+    width: 15%;
+    margin: 0 20px;
+  }
 }
 @media (min-width: 1280px) {
   #footer-img {
@@ -445,17 +428,9 @@ footer li {
 .oldie blockquote {
   margin: 0 40px;
 }
-.oldie .about ul {
-  margin-left: 25%;
-}
 .oldie .about li {
   float: left;
-  width: 15%;
-  margin: 0 20px;
-}
-.oldie .about img {
-  margin: 35px 30px 50px 0;
-  float: left;
+  margin: 0 20px 10px 20px;
 }
 .oldie .lede {
   margin-top: 100px;
@@ -486,21 +461,11 @@ footer li {
 .oldie #toc li {
   width: 45%;
 }
-.oldie .resume .img-col,
-.oldie .work .img-col {
-  float: left;
-  width: 30%;
-  margin: 10px 5% 0 5%;
-  display: block;
-}
-.oldie .resume .text-col,
-.oldie .work .text-col {
-  display: block;
-  margin: 0;
-  float: left;
-  width: 60%;
-}
 .oldie .resume footer li:first-child,
 .oldie .work footer li:first-child {
   border-right: 1px solid #FFF;
+}
+.oldie .about li {
+  width: 15%;
+  margin: 0 20px;
 }
