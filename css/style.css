@@ -81,6 +81,9 @@ nav a {
 .home header {
   position: absolute;
 }
+.about h2 {
+  font-size: 32px;
+}
 .about li {
   text-align: center;
   text-transform: uppercase;
@@ -238,7 +241,7 @@ footer li {
   display: block;
   height: 16px;
   width: 16px;
-  background: url('/img/i-down-arrow.png') no-repeat;
+  background: url('/img/i-down-arrow.png') no-repeat 0 5px;
   float: left;
   -webkit-transition: -webkit-transform 0.5s;
   -moz-transition: -moz-transform 0.5s;
