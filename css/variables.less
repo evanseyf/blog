@@ -1,0 +1,24 @@
+@sans-serif: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+@monospace: 'Monaco', monospace;
+@salmon: #FF9484;
+
+.fancyButton(@bgcolor, @borderColor) {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+	padding: 10px 20px;
+	background-color: @bgcolor;
+	border: 1px solid @borderColor;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	box-shadow: 0 1px 3px #4A4A4A;
+	-webkit-transition: background-color .15s linear,box-shadow .15s linear;
+	-moz-transition: background-color .15s linear,box-shadow .15s linear;
+	transition: background-color .15s linear,box-shadow .15s linear;
+	background-image: linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -moz-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -webkit-linear-gradient(bottom,rgba(0, 0, 0, 0.1) 0,rgba(255, 255, 255, 0.1) 100%);
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0,rgba(0, 0, 0, 0.1)),color-stop(1,rgba(255, 255, 255, 0.1)));
+}
