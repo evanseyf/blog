@@ -18,8 +18,6 @@ Firstly, I wanted to learn about my site's few visitors. A glance at my analytic
 
 I only had one real idea when it came to re-designing my site: my content is and will be mostly text, not images, so typography would be important. There was a problem: I know nothing about type. So I decided to just pick one that I liked and take it from there.
 
-[![Adobe's Source Sans Pro](http://blogs.adobe.com/typblography/files/2012/07/SourceSplash.png)](https://github.com/adobe/Source-Sans-Pro)
-
 [Adobe's Source Sans Pro](https://github.com/adobe/Source-Sans-Pro) is a pretty simple sans-serif font that also has some nice character spacing, so it works well both in short labels (i.e. on buttons or nav links) and longer blocks of text. This made figuring out the typography for my site _much_ simpler. I could use one font to do it all.
 
 Having found the central element of my re-design, I now was ready to start laying things out. After two months with the frontend team at OFA, I had a healthy fear-of-god kind of appreciation for responsive, mobile-first design. But I was still in the clutch of old habits and had difficulty conceptualizing a design that was fluid across screen sizes. At best I could think of three different views: mobile, tablet, and desktop. But that is an onerous way to think of making a website. It's actually thinking of making three. 
