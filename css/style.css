@@ -116,6 +116,12 @@ nav a {
   margin: 20px auto;
   color: #FFF;
 }
+.about li:active {
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(0, 0, 0, 0.1)), color-stop(1, rgba(255, 255, 255, 0.1)));
+}
 .about li:hover {
   background-color: #faa69a;
 }
@@ -173,6 +179,12 @@ footer li {
   width: 30%;
   padding: 7px 10px;
   margin: 10px auto;
+}
+#elsewhere li:active {
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(0, 0, 0, 0.1)), color-stop(1, rgba(255, 255, 255, 0.1)));
 }
 #elsewhere li:hover {
   background-color: #fdfbfb;
@@ -245,6 +257,12 @@ footer li {
   margin: 20px auto 0 auto;
   color: #FFF;
   font-size: 0.9em;
+}
+#toc button:active {
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(0, 0, 0, 0.1)), color-stop(1, rgba(255, 255, 255, 0.1)));
 }
 #toc button:hover {
   background-color: #faa69a;
@@ -335,6 +353,13 @@ footer li {
   margin-right: 20px;
   padding: 5px 15px;
   color: #FFF;
+}
+.resume a.button:active,
+.work a.button:active {
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0.1) 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(0, 0, 0, 0.1)), color-stop(1, rgba(255, 255, 255, 0.1)));
 }
 .resume a.button:hover,
 .work a.button:hover {
