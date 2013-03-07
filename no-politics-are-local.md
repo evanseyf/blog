@@ -1,6 +1,5 @@
 ---
 layout: nil
-title: No politics are local: dilemmas of American federalism
 ---
 _from [_Renewal_ Vol 20, No 2/3, 2012, pp. 75-79.](http://renewal.org.uk/issues/vol-20-no-2-3-2012/)
 
