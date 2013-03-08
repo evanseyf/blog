@@ -30,11 +30,14 @@ title: home
 	</section>
 
 	<section class="lede">
-		<h2><a href="/blog">Recently:</a></h2>
+		<h2>Recently:</h2>
+
+		<h3><a href="/blog">{{ site.posts.first.title }}</a></h3>
+		<small><em>{{ site.posts.first.date | date: "%b %d %Y" }}</em></small>
 
 		{{ site.posts.first.content | truncatewords:200 | remove_img:1 }}
 
-		<small><a href="/blog">Read more<span>&rArr;</span></a></small>
+		<p class="read-more"><a href="/blog">Read more &rArr;</a></p>
 	</section>
 
 </article>
