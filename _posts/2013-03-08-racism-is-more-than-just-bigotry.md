@@ -24,6 +24,6 @@ From Benn Michaels:
 And from Coates:
 
 <blockquote>
-	<p>The other day I walked past this particular deli. I believe its owners to be good people. I felt ashamed at withholding business for something far beyond the merchant's reach. I mentioned this to my wife. My wife is not like me. When she was 6, a little white boy called her cousin a nigger, and it has been war ever since. “What if they did that to your son?” she asked.<p>
+	<p>The other day I walked past this particular deli. I believe its owners to be good people. I felt ashamed at withholding business for something far beyond the merchant's reach. I mentioned this to my wife. My wife is not like me. When she was 6, a little white boy called her cousin a nigger, and it has been war ever since. “What if they did that to your son?” she asked.</p>
 	<p>And right then I knew that I was tired of good people, that I had had all the good people I could take.</p>
 </blockquote>
