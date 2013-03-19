@@ -1,0 +1,12 @@
+---
+layout: post
+title: Inequality in boom and bust
+---
+
+I just started G.A. Cohen's [_Self Ownership, Freedom, and Equality_](http://books.google.com/books?id=oeUQjOLNY-wC&printsec=frontcover&dq=self+ownership+freedom+equality&hl=en&sa=X&ei=36xHUd6pK9Kl4AOk0YGYBg&ved=0CDAQ6AEwAA#v=onepage&q&f=false) and the following struck me as particularly relevant given [today's news about Cyprus](http://www.nytimes.com/2013/03/19/business/global/19iht-cyprus19.html) and the return of the spectre of financial crisis. 
+
+<blockquote>
+	<p>When aggregate wealth is increasing, the condition of those at the bottom of society, and in the world, can improve, even while the distance between them and the better off does not diminish. Where such improvement occurs (and it has occured, on a substantial scale, for many disadvantaged groups), egalitarian justice does not cease to demand equality, but that demand can seem shrill, even dangerous, if the worse off are steadily growing better off, even though they are not catching up with those above them. When, however, progress must give way to regress, when average material living standards must fall, then poor people and poor nations can no longer hope to approach the levels of amenity which are now enjoyed by the world's well off. Sharply falling average standards mean that settling for limitless improvement, instead of equality, ceases to be an option, and huge disparities of wealth become correspondingly more intolerable, from a moral point of view.</p>
+</blockquote>
+
+Cohen's thought deserves a more serious consideration than I'm in a position to give, but at first blush it strikes me as a serious challenge to [Rawls' difference principle.](http://plato.stanford.edu/entries/justice-distributive/#Difference) The difference principle countenances economic inequalities so long as the unequal situation benefits the least advantaged in society. However, insofar as this systematic inequality _causes_ moments of general economic regress (which we recognize as the "bust" of business cycles or the periodic crisis moments in capitalism) thereby resulting in a situation in which inequalities do _not_ benefit the bottom of society, then the "basic structure" is one which does not result in a just "pure procedural justice" (to use two of Rawls' terms) and must be revised.
