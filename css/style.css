@@ -42,6 +42,11 @@ h2 {
 section {
   padding: 30px;
 }
+section blockquote {
+  background-color: #eaeaea;
+  padding: 5px 10px;
+  border-left: 3px solid #ff9484;
+}
 blockquote {
   margin: 0;
 }
@@ -317,11 +322,6 @@ footer li {
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-}
-.blog section blockquote {
-  background-color: #eaeaea;
-  padding: 5px 10px;
-  border-left: 3px solid #ff9484;
 }
 .blog .caption {
   display: block;
