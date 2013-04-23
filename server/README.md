@@ -1,1 +1,0 @@
-This is my blog. Thank you [Jekyll](https://github.com/mojombo/jekyll/wiki).
