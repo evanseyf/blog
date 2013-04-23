@@ -1,13 +1,3 @@
-/* 
-
-   ________________  ______
-   / ____/ ____/ __ \/ ____/
-  / __/ / /   / / / / /     
- / /___/ /___/ /_/ / /___   
-/_____/\____/_____/\____/   
-
-
-*/
 /*----GLOBAL----*/
 @font-face {
   font-family: 'Source Sans Pro';
@@ -63,7 +53,6 @@ blockquote {
 figure img {
   display: block;
   margin: 0 auto;
-  width: 150px;
 }
 figcaption {
   text-align: center;
@@ -106,12 +95,11 @@ nav a {
 .home header {
   position: absolute;
 }
-.about figure {
-  margin-top: 0;
-}
 .about h2 {
   font-size: 32px;
-  text-align: center;
+}
+.about figure {
+  margin-top: 25px;
 }
 .about li {
   text-align: center;
@@ -418,21 +406,12 @@ footer li {
   font-size: 0.9em;
 }
 @media (min-width: 768px) {
-  figure img {
-    width: auto;
-  }
   blockquote {
     margin: 0 40px;
-  }
-  .about h2 {
-    text-align: left;
   }
   .about li {
     float: left;
     margin: 0 20px 10px 20px;
-  }
-  .about figure {
-    margin-top: 25px;
   }
   .lede {
     margin-top: 100px;
@@ -482,21 +461,12 @@ footer li {
     display: none;
   }
 }
-.oldie figure img {
-  width: auto;
-}
 .oldie blockquote {
   margin: 0 40px;
-}
-.oldie .about h2 {
-  text-align: left;
 }
 .oldie .about li {
   float: left;
   margin: 0 20px 10px 20px;
-}
-.oldie .about figure {
-  margin-top: 25px;
 }
 .oldie .lede {
   margin-top: 100px;

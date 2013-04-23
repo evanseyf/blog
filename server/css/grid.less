@@ -1,0 +1,69 @@
+/*This is based on dryan's css-smart-grid: https://github.com/dryan/css-smart-grid 
+He is a BOSS*/
+
+
+@gutter: percentage(20px/940px);
+@onecol: 6.3829787%;
+
+.column() {
+    float: left;
+    margin: 0 0 0 @gutter;
+    width: @onecol;
+    &:first-child,
+    &.first {
+        margin-left: 0;
+    }
+}
+
+.columns(@count:1) {
+    width: (@onecol * @count) + (@gutter * (@count - 1));
+}
+
+.columns-set() {
+	.columns {
+	    .column;
+	    &.two {
+	        .columns(2);
+	    }
+	    &.three,
+	    &.one-fourth {
+	        .columns(3);
+	    }
+	    &.four,
+	    &.one-third {
+	        .columns(4);
+	    }
+	    &.five {
+	        .columns(5);
+	    }
+	    &.six,
+	    &.one-half {
+	        .columns(6);
+	    }
+	    &.seven {
+	        .columns(7);
+	    }
+	    &.eight,
+	    &.two-thirds {
+	        .columns(8);
+	    }
+	    &.nine,
+	    &.three-fourths {
+	        .columns(9);
+	    }
+	    &.ten {
+	        .columns(10);
+	    }
+	    &.eleven {
+	        .columns(11);
+	    }
+	    &.twelve,
+	    &.full {
+	        .columns(12);
+	    }
+	}
+}
+
+@media (min-width: 760px) {
+	.columns-set;
+}
