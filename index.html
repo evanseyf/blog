@@ -35,7 +35,7 @@ title: home
 		<h3><a href="/blog">{{ site.posts.first.title }}</a></h3>
 		<small><em>{{ site.posts.first.date | date: "%b %d %Y" }}</em></small>
 
-		{{ site.posts.first.content | truncatewords:200 | remove_img:1 }}
+		{{ site.posts.first.content | truncatewords:200 | show_img:1 }}
 
 		<p class="read-more"><a href="/blog">Read more &rArr;</a></p>
 	</section>

@@ -2,8 +2,8 @@
 # made by Conor Gaffney, 2012
 
 module Jekyll
-	module RemoveImage
-  		def remove_img(input, keep = '')
+	module ShowImage
+  		def show_img(input, keep = '')
       		img_array = input.scan(/<img.*?>/)
 
       		if img_array.empty? == true
@@ -21,4 +21,4 @@ module Jekyll
   	end
 end
 
-Liquid::Template.register_filter(Jekyll::RemoveImage)
+Liquid::Template.register_filter(Jekyll::ShowImage)
